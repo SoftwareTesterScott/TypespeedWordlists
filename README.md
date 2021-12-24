@@ -14,4 +14,4 @@ Wordlists
   
   Chess
   ----- 
-    A quick wordlist was made for chess as a proof of concept. Each word starts capitalised for consistency and although "en passant" is two words, spaces arent allowed, so "En-passant" it is. 
+A quick wordlist was made for chess as a proof of concept. Each word starts capitalised for consistency and although "en passant" is two words, spaces arent allowed, so "En-passant" it is. 

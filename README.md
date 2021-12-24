@@ -7,4 +7,5 @@ Word list contains atleast 22 different words, no longer than 19 characters, no 
 Blank lines are ignored
 
 
-
+on my install, the wordlists are located in /usr/share/typespeed/words and filenames are in the format of "words.<name>" (EG: words.eng, words.unix, words.cshartp_with_operators)
+  
